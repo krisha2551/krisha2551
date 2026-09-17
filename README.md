@@ -94,9 +94,9 @@ and HTTP/API requests.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisha2551&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="./profile/stats.svg" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha2551&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="./profile/top-langs.svg" />
 
 </div>
 
