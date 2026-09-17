@@ -5,7 +5,16 @@
 ### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Web Developer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Exploring+AI-powered+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+Developer;Node.js+%7C+Express.js;MongoDB+Developer;AI+Enthusiast+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -56,7 +65,7 @@ responsive, and user-friendly web applications.
 ## 🤖 AI & Full Stack
 
 I'm exploring how **AI and Full Stack Development** can work together
-to create smarter applications.
+to create smarter and more useful applications.
 
 - 🤖 AI-powered web applications
 - 🔌 AI APIs & integrations
