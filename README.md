@@ -102,16 +102,6 @@ and HTTP/API requests.
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=krisha2551&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🐍 My Contributions
 
 <div align="center">
